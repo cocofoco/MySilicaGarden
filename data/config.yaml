@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Matei Lucian Ieremiciuc
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -10,12 +10,7 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  My Digital Garden. A collection of tutorials, blog-style updates, thoughts, and anything I want to share with the world.
 page_title:
-  "🪴 Quartz 3.2"
+  "My Silica Garden"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
